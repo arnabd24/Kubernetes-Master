@@ -1,0 +1,1 @@
+This is my kubernetes repo with best Practices which will be deployed via ArgoCD
